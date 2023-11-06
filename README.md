@@ -22,5 +22,5 @@ trees.
 14. Binary Search Tree Implementations, Heap
 15. Dictionary and Hashing 
 
-Course textbook: 
+Course textbook: You can download the course textbook from the following link: [Data structrues and abstractions with java](/Textbooks)
 

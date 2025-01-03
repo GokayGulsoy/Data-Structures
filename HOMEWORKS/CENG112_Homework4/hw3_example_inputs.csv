@@ -1,0 +1,8 @@
+add,Fruit,Apple,20
+add,Vegetable,Carrot,25
+list
+add,Fruit,Orange,30
+search,Apple
+search,Soap
+add,Dairy, Cheese,100
+list

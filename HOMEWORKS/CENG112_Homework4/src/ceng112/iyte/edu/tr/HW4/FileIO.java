@@ -11,7 +11,7 @@ public class FileIO {
 
 		try {
 
-			File csvFile = new File("hw3_example_inputs.csv");
+			File csvFile = new File("hw4_example_inputs.csv");
 			Scanner fileReader = new Scanner(csvFile);
 
 			while (fileReader.hasNextLine()) {
